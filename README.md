@@ -74,6 +74,6 @@ Proyecto_Final/
 
 ## Declaración de autoría y uso de IA
 - Herramienta utilizada: Claude
-- Para qué la usé: ayuda con redacción y organización del readme, además de ayuda con la busqueda de datos
+- Para qué la usé: ayuda con redacción y organización del readme, además de ayuda con la busqueda de datos y estructura del PDF inicial
 - Qué hice yo: Selección de la pregunta y analisis del tema y pregunta
 - Verificación: confirmo que entiendo y puedo explicar todo lo que entrego.
